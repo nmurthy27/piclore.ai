@@ -1,0 +1,5 @@
+{
+  "name": "Piclore AI",
+  "description": "Search or generate celebrity wallpapers, automatically resized to fit your specific phone model's screen resolution.",
+  "requestFramePermissions": []
+}
